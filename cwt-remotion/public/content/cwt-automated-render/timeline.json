@@ -1,0 +1,35 @@
+{
+  "shortTitle": "CWT TRADING",
+  "lengthFrames": 360,
+  "elements": [
+    {
+      "startMs": 0,
+      "endMs": 12000,
+      "image": "bg.png"
+    }
+  ],
+  "text": [
+    {
+      "text": "Stop losing money.",
+      "startMs": 0,
+      "endMs": 4000
+    },
+    {
+      "text": "Trade with data.",
+      "startMs": 4000,
+      "endMs": 8000
+    },
+    {
+      "text": "Join CWT now.",
+      "startMs": 8000,
+      "endMs": 12000
+    }
+  ],
+  "audio": [
+    {
+      "audioUrl": "voice.mp3",
+      "startMs": 0,
+      "endMs": 12000
+    }
+  ]
+}

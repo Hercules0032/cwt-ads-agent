@@ -1,0 +1,7 @@
+node_modules/
+.venv/
+.env
+output/*.mp4
+.DS_Store
+cwt-remotion/.prev/
+cwt-remotion/node_modules/
